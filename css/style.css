@@ -127,11 +127,15 @@ nav .container{
 
 .book_link{
     display: flex;
+    margin-left: 50px;
+    margin-top: 10px;
 }
 
-.h1{
-    font-size: 50px;
+.book_h1{
+    font-size: 40px;
     margin-top: 200px;
+    margin-left: 50px;
+    margin-bottom: 60px;
 }
 
 .book_img{
