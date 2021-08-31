@@ -120,3 +120,11 @@ nav .container{
 .supdropdown_item{
     padding: 10px 20px;
 }
+
+.main{
+    display: flex;
+}
+
+.book_link{
+    display: flex;
+}
