@@ -173,3 +173,25 @@ margin-top: 100px;
     color: blue;
     font-weight: 600;
 }
+
+.display{
+    display: flex;
+    margin-top: 100px;
+}
+
+.main_img{
+    margin-left: 330px;
+    
+}
+
+.main_text{
+    margin-left: 40px;
+    
+}
+
+
+.main_h4{
+    margin-bottom: 20px;
+    font-size: 21px;
+    word-spacing: 10px;
+}
