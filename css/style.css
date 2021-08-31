@@ -129,6 +129,7 @@ nav .container{
     display: flex;
     margin-left: 50px;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .book_h1{
@@ -140,4 +141,23 @@ nav .container{
 
 .book_img{
 margin-top: 100px;    
+}
+
+.book_botom_ul{
+    margin-left: 50px;
+    width: 250px;
+    height: 50px;
+    top: 40px;
+    background-color: #F04037;
+    position: relative;
+    border-radius: 10px;
+}
+
+
+
+.book_get{
+    position: absolute;
+   margin-left: 15px;
+   top: 15px;
+   color: white;
 }
