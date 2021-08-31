@@ -161,3 +161,15 @@ margin-top: 100px;
    top: 15px;
    color: white;
 }
+
+.book_link_text{
+ margin-top: 60px;
+ margin-left: 50px;
+ font-weight: 700;
+ font-size: 15px;   
+}
+
+.span{
+    color: blue;
+    font-weight: 600;
+}
