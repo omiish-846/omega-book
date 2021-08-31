@@ -128,3 +128,7 @@ nav .container{
 .book_link{
     display: flex;
 }
+
+.h1{
+    font-size: 60px;
+}
