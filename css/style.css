@@ -443,4 +443,13 @@ color: #F2F2F2;
 .from{
     text-align: center;
     margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+.from_h1{
+    font-size: 40px;
+}
+
+.from_p{
+    color: rgb(60, 59, 59);
 }
