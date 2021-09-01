@@ -272,3 +272,22 @@ margin-top: 100px;
     left: -30px;
 
 }
+
+.book_audio{
+    display: flex;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.lots{
+    color: rgb(60, 60, 60);
+}
+
+.sol{
+    margin-bottom: 40px;
+}
+
+.book_audio_h1{
+    margin-bottom: 20px;
+}
