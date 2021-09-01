@@ -291,3 +291,17 @@ margin-top: 100px;
 .book_audio_h1{
     margin-bottom: 20px;
 }
+
+.learn_text{
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.learn_text_p{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.learn_text_pp{
+    text-align: center;
+}
