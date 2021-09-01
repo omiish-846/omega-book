@@ -40,6 +40,7 @@ nav .container{
     padding: 10px 7px;
     margin: 0 10px;
     color: black;
+    transition: .5s;
 }
 
 .get_start{
@@ -49,6 +50,7 @@ nav .container{
     background-color: #F04037;
     font-weight: 500;
     border-radius: 5px;
+    transition: .5s;
 }
 
 .dropdown{
@@ -151,6 +153,7 @@ margin-top: 100px;
     background-color: #F04037;
     position: relative;
     border-radius: 10px;
+    transition: .5s;
 }
 
 
@@ -172,6 +175,7 @@ margin-top: 100px;
 .span{
     color: blue;
     font-weight: 600;
+    transition: .5s;
 }
 
 .display{
@@ -386,4 +390,22 @@ p{
 .learn_custom{
     word-spacing: 5px;
     font-weight: 100;
+}
+
+.nav_link:hover{
+    color: red;
+}
+
+.get_start:hover{
+    background: blue;
+    color: white;
+}
+
+.book_botom_ul:hover{
+    background: blue;
+    color: white;
+}
+
+.span:hover{
+    color: red;
 }
