@@ -221,7 +221,10 @@ margin-top: 100px;
     align-items: center;
     justify-content: center;
     margin: auto;
-    background-color: darkgray;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    margin-top: 60px;
+    border-radius: 10px;
 }
 
 .what_img{
@@ -237,6 +240,7 @@ margin-top: 100px;
 
 .what_h3{
     margin-bottom: 60px;
+    color: blue;
 }
 
 .what_h1{
@@ -245,5 +249,26 @@ margin-top: 100px;
 }
 
 .cret{
-    margin-top: 50px;
+    margin-top: 80px;
+    word-spacing: 10px;
+    font-weight: 500;
+    
+}
+
+.right{
+    position: relative;
+}
+
+
+.icon{
+    position: absolute;
+    bottom: 130px;
+    left: 865px;
+}
+
+.iconca{
+    position: absolute;
+    bottom: 130px;
+    left: -30px;
+
 }
