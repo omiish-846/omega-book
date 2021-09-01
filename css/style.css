@@ -334,3 +334,56 @@ margin-top: 100px;
 p{
     margin-left: 10px;
 }
+
+.learn_get{
+    display: flex;
+    width: 1000px;
+     border-radius: 10px;
+    position: relative;
+    top: 80px;
+    margin: auto;
+    background-color: #413E65;
+}
+
+.book_learn_get{
+    display: flex;
+}
+
+.book_learn_img{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.book_learn_text{
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+}
+
+.learn_bottom{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    margin-top: 80px;
+    margin-right: 60px;
+    position: relative;
+    left: 20px;
+    border-radius: 10px;
+}
+.get{
+    position: absolute;
+    color: white;
+    margin-top: 13px;
+    margin-left: 33px;
+   
+}
+
+.book_of{
+    margin-bottom: 20px;
+}
+
+.learn_custom{
+    word-spacing: 5px;
+    font-weight: 100;
+}
