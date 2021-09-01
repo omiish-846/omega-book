@@ -434,5 +434,9 @@ color: #F2F2F2;
     margin-top: 200px;
     display: flex;
     text-align: center;
+    position: relative;
+    justify-content: space-between;
     
 }
+
+
