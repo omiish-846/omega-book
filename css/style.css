@@ -245,6 +245,7 @@ margin-top: 100px;
 .what_h3{
     margin-bottom: 60px;
     color: blue;
+    transition: .5s;
 }
 
 .what_h1{
@@ -374,6 +375,7 @@ p{
     position: relative;
     left: 20px;
     border-radius: 10px;
+    transition: .5s;
 }
 .get{
     position: absolute;
@@ -407,5 +409,23 @@ p{
 }
 
 .span:hover{
+    color: red;
+}
+
+.what_h3:hover{
+    color: red;
+    
+}
+
+.learn_bottom:hover{
+background-color: blue;
+color: #F2F2F2;    
+}
+
+.nav_title{
+    transition: .5s;
+}
+
+.nav_title:hover{
     color: red;
 }
