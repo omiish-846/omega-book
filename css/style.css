@@ -429,3 +429,10 @@ color: #F2F2F2;
 .nav_title:hover{
     color: red;
 }
+
+.book_foiz{
+    margin-top: 200px;
+    display: flex;
+    text-align: center;
+    
+}
