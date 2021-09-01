@@ -492,6 +492,7 @@ color: #F2F2F2;
     margin-top: 30px;
     font-weight: 300;
     word-spacing: 8px;
+    font-style: italic;
     margin-right: 30px;
 }
 
@@ -505,9 +506,28 @@ color: #F2F2F2;
     margin-left: 80px;
     margin-top: -20px;
     font-size: 15px;
+    font-style: italic;
     color: rgb(84, 82, 82);
 }
 
 h1{
     font-size: 20px;
+}
+
+
+
+.simply_link{
+    text-align: center;
+    color: blue;
+    margin-bottom: 200px;
+}
+
+.simply_link_a{
+    color: blue;
+    text-decoration: underline;
+    transition: .5s;
+}
+
+.simply_link_a:hover{
+    color: red;
 }
