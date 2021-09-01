@@ -531,3 +531,43 @@ h1{
 .simply_link_a:hover{
     color: red;
 }
+
+.about_text{
+    text-align: center;
+    font-size: 50px;
+}
+
+.about_flex{
+    display: flex;
+    margin-top: 100px;
+}
+
+.about_textt{
+    margin-left: 80px;
+}
+
+.about_name{
+    margin-bottom: 40px;
+    font-weight: 800;
+}
+
+
+.about_name_text{
+    word-spacing: 5px;
+}
+.about_name_textt{
+  margin-top: 20px;
+    word-spacing: 5px;
+}
+
+.about_h6{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 15px;
+    color: rgb(85, 84, 84);
+}
+
+span{
+    color: black;
+    text-decoration: underline;
+}
