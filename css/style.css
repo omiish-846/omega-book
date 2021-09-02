@@ -875,5 +875,22 @@ span{
 
 
 .demos:hover::before{
+    transition: transform 0.5s;
+    transform: scale(1.5);
+}
 
+.demos{
+
+  
+    position: relative;
+    background-image: url(../images/demos.png);
+    
+  
+    background-size: contain;
+    transition: .5s;
+    transform: translateY(50);
+}
+
+.demos:hover{
+    transform: rotate(100deg)
 }
