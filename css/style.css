@@ -323,8 +323,10 @@ margin-top: 100px;
     margin-left: 100px;
     margin-top: 30px;
     width: 250px;
+    height: 40px;
+    background-color: white;
     border-radius: 10px;
-    border: 1px rgb(214, 192, 192) solid;
+    
     
 }
 
@@ -395,7 +397,7 @@ p{
 }
 
 .nav_link:hover{
-    color: red;
+    color: rgb(0, 110, 255);
 }
 
 .get_start:hover{
@@ -680,6 +682,7 @@ span{
     border: none;
     border-radius: 10px;
     outline: none;
+    transition: .5s;
     background-color: rgb(228, 216, 216);
 }
 
@@ -707,17 +710,19 @@ span{
     border-radius: 10px;
     height: 40px;
     margin-top: 40px;
-    background-color: rgb(255, 0, 0);
+    background-color:  #F0544C;
     transition: .5s;
 }
 
 
 .pricing_li1:hover{
-    background-color: blue;
+    background-color: 
+    #5454D4;
 }
 
 .pricing_li:hover{
-    background-color: red;
+    background-color: 
+    #F0544C;
 }
 
 
@@ -787,4 +792,88 @@ span{
     left: 190px;
     right: 20px;
     color: rgb(157, 154, 154);
+}
+
+.text_footer{
+    font-size: 40px;
+    
+}
+
+.footer_text{
+    margin-left: 100px;
+}
+
+.footer{
+    margin-bottom: 100px;
+    display: flex;
+}
+
+.footer_li{
+    width: 200px;
+    height: 40px;
+    background-color:  #F0544C;
+    margin-left: 180px;
+    border-radius: 5px;
+    margin-top: 40px;
+    transition: .5s;
+}
+.footer_a{
+    color: white;
+    margin-left: 50px;
+    position: relative;
+    top: 10px;
+}
+
+.footer_li:hover{
+    background-color: blue;
+}
+
+
+.footer_flex{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.footer_support{
+    margin-left: 350px;
+    font-size: 10px;
+    word-spacing: 15px;
+}
+
+
+.footer_h5{
+    margin-left: 110px;
+    transition: .5s;
+}
+
+
+.footer_h5:hover{
+    color: red;
+}
+
+
+.input:hover{
+    background-color: red;
+    color: white;
+}
+
+
+
+.footer_omega{
+    font-weight: 800;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+
+
+
+.footer_text_p{
+    color: rgb(123, 116, 116);
+}
+
+
+
+.demos:hover::before{
+
 }
