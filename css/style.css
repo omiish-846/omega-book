@@ -456,14 +456,14 @@ color: #F2F2F2;
 
 .simply_1{
    width: 250px;
-    height: 310px; 
+    height: 350px; 
     border: rgb(209, 209, 209) 1px solid;
     border-radius: 10px;
 }
 
 .simply_2{
     width: 250px;
-    height: 310px;
+    height: 350px;
     border: rgb(209, 209, 209) 1px solid;
     border-radius: 10px;
 }
@@ -471,7 +471,7 @@ color: #F2F2F2;
 
 .simply_3{
     width: 250px;
-    height: 310px;
+    height: 350px;
     border: rgb(209, 209, 209) 1px solid;
     border-radius: 10px;
 }
@@ -504,10 +504,12 @@ color: #F2F2F2;
 
 .simply_com{
     margin-left: 80px;
-    margin-top: -20px;
+  
     font-size: 15px;
     font-style: italic;
     color: rgb(84, 82, 82);
+     position: relative;
+    bottom: 25px;
 }
 
 h1{
@@ -585,21 +587,27 @@ span{
 .pricing_h1{
     font-size: 40px;
     color: white;
+    position: relative;
+    top: 50px;
 }
 
 .pricing{
     width: 1100px;
+    height: 800px;
+    margin-bottom: 150px;
     background-color: #413E65;
 }
 
 
 .pricing_1{
     width: 250px;
-     height: 210px; 
+     height: 280px; 
      background-color: white;
      border-radius: 10px;
-     margin-left: 80px;
-     margin-right: 80px;
+     margin-bottom: 100px;
+    
+
+
  }
  
  .pricing_flex{
@@ -613,6 +621,14 @@ span{
  
  }
  
+ 
+ .custom_pricing{
+     position: relative;
+     top: 60px;
+    }
+ 
+ 
+ 
  .pricing_p{
      text-align: center;
      margin-top: 30px;
@@ -625,3 +641,150 @@ span{
      font-size: 40px;
      font-weight: 700;
  }
+ 
+ .pricing_size{
+     text-align: center;
+     margin-top: 20px;
+     margin-bottom: 20px;
+ }
+ 
+ .pricing_center{
+     text-align: center;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     color: rgb(97, 97, 97);
+ }
+ 
+ 
+ .pricing_one{
+     text-align: center;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     font-size: 15px;
+ }
+ 
+ 
+ 
+ .pricing_input{
+    width: 20px;
+    position: relative;
+    left: 10px;
+    bottom: 28px;
+    right: 295px;
+ }
+ 
+.input{
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    background-color: rgb(228, 216, 216);
+}
+
+.pricing_li{
+    width: 250px;
+    height: 35px;
+    background-color: blue;
+    position: relative;
+    bottom: 20px;
+    border-radius: 10px;
+    transition: .5s;
+}
+
+.pricin_a{
+     position: relative;
+    color: white;
+   top: 10px;
+   left: 50px;   
+}
+
+
+.pricing_li1{
+    width: 220px;
+    margin-left: 15px;
+    border-radius: 10px;
+    height: 40px;
+    margin-top: 40px;
+    background-color: rgb(255, 0, 0);
+    transition: .5s;
+}
+
+
+.pricing_li1:hover{
+    background-color: blue;
+}
+
+.pricing_li:hover{
+    background-color: red;
+}
+
+
+
+.pricin_a1{
+    position: relative;
+   color: white;
+  top: 8px;
+  left: 50px;   
+}
+
+
+
+.pricin_omega{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.pricin_omegala{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 60px
+}
+
+.pricin_omega_h1{
+    margin-left: 10px;
+    color: white;
+}
+
+.flex{
+    position: relative;
+}
+
+
+.prikin_love1{
+    position: absolute;
+   
+}
+
+
+.prikin_love1{
+    position: relative;
+    bottom: 90px;
+    left: 190px;
+    right: 20px;
+    color: rgb(157, 154, 154);
+}
+
+.prikin_love2{
+    position: relative;
+    bottom: 130px;
+    left: 640px;
+    color: rgb(157, 154, 154);
+}
+
+.prikin_love3{
+    position: relative;
+    bottom: 80px;
+    left: 640px;
+    color: rgb(157, 154, 154);
+}
+
+.prikin_love4{
+    position: relative;
+    bottom: 115px;
+    left: 190px;
+    right: 20px;
+    color: rgb(157, 154, 154);
+}
