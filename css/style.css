@@ -569,10 +569,59 @@ h1{
 
 span{
     color: black;
+    transition: .5s;
     text-decoration: underline;
 }
 
 
 .pricing_text{
     text-align: center;
+    margin-top: 200px;
+    color: rgb(184, 184, 184);
+    margin-bottom: 100px;
+    
 }
+
+.pricing_h1{
+    font-size: 40px;
+    color: white;
+}
+
+.pricing{
+    width: 1100px;
+    background-color: #413E65;
+}
+
+
+.pricing_1{
+    width: 250px;
+     height: 210px; 
+     background-color: white;
+     border-radius: 10px;
+     margin-left: 80px;
+     margin-right: 80px;
+ }
+ 
+ .pricing_flex{
+     display: flex;
+     justify-content: space-between;
+ }
+
+ span:hover{
+     color: red;
+    
+ 
+ }
+ 
+ .pricing_p{
+     text-align: center;
+     margin-top: 30px;
+     margin-bottom: 30px;
+     color: blue;
+ }
+ 
+ .pricing_free{
+     text-align: center;
+     font-size: 40px;
+     font-weight: 700;
+ }
